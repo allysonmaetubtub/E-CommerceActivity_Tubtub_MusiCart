@@ -1,5 +1,5 @@
 ## SHOPPING CART
-![alt text](https://github.com/allysonmaetubtub17/E-CommerceActivity_Tubtub_MusiCart/blob/master/public/img/musicart1.png "MusiCart Logo")##MusiCart
+![alt text](https://github.com/allysonmaetubtub17/E-CommerceActivity_Tubtub_MusiCart/blob/master/public/img/musicart1.png "MusiCart Logo")
 This is an E-Commerce website built with *Laravel*. It has the following features:
 - Digital Catalog
 - Individual Prduct Browsing
